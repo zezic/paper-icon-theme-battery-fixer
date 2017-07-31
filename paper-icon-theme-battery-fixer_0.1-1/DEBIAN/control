@@ -1,0 +1,10 @@
+Package: paper-icon-theme-battery-fixer
+Version: 0.1-1
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Serge Ukolov <mail@zezic.ru>
+Description: Paper icon theme battery fixer
+ This package installs trigger which runned on every
+ paper-icon-theme upgrade and uses solution from Github issue
+ to fix battery icon: https://github.com/snwh/paper-icon-theme/issues/557
